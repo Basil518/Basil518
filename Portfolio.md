@@ -6,12 +6,6 @@
 ## Дипломная работа
 _**Описание:**_ Подготовка спецификации требований для разработки мобильного приложения по учету личных финасов.
 
-[Спецификация требований](https://github.com/Basil518/Basil518/blob/a90ef8e01a4597006e2bb6ffcb050e5cdc48a663/1.%20SRS%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2%20SAL-25%20(2).pdf)
-
-[Use Case диаграмма](https://drive.google.com/file/d/1f1YCMgcssd2DJ5UTYxQaBlafCMrTbBDc/view?usp=sharing)
-
-[Диаграмма классов](https://drive.google.com/file/d/1Mty7ap3SdBmgmPFyvICJhZ9BLdQgApEl/view?usp=sharing)
-
-[Swagger](https://app.swaggerhub.com/apis/BASILVB/MyFinance/1)
+[Спецификация требований](https://github.com/Basil518/Basil518/blob/a90ef8e01a4597006e2bb6ffcb050e5cdc48a663/1.%20SRS%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%91%D1%83%D1%85%D1%82%D0%B8%D1%8F%D1%80%D0%BE%D0%B2%20SAL-25%20(2).pdf)| [Use Case диаграмма](https://drive.google.com/file/d/1f1YCMgcssd2DJ5UTYxQaBlafCMrTbBDc/view?usp=sharing)| [Диаграмма классов](https://drive.google.com/file/d/1Mty7ap3SdBmgmPFyvICJhZ9BLdQgApEl/view?usp=sharing)| [Swagger](https://app.swaggerhub.com/apis/BASILVB/MyFinance/1)
 ## Example2
 ## Third Example
