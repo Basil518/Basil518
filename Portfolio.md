@@ -11,5 +11,7 @@ _**Описание:**_ Подготовка спецификации требо
 [Use Case диаграмма](https://drive.google.com/file/d/1f1YCMgcssd2DJ5UTYxQaBlafCMrTbBDc/view?usp=sharing)
 
 [Диаграмма классов](https://drive.google.com/file/d/1Mty7ap3SdBmgmPFyvICJhZ9BLdQgApEl/view?usp=sharing)
+
+[Swagger](https://app.swaggerhub.com/apis/BASILVB/MyFinance/1)
 ## Example2
 ## Third Example
