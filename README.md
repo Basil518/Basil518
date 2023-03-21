@@ -3,6 +3,11 @@
 
 * email: basil.vb@ya.ru
 * Telegram: https://t.me/basil_vb 
+<div id="badges">
+  <a href="https://t.me/basil_vb">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
 ## Мои ключевые компетенции
 
@@ -17,6 +22,11 @@
 
 ## Инструментарий
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+</div>
 ***UML, BPMN, DBeaver, VScode, Draw.io, bpmn.io, Figma, Excel, Visio*** 
 
 <div id="header" align="center">
