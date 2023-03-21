@@ -13,12 +13,15 @@
 
 * Понимание процесса работы с требованиями заказчика, владение методами и приёмами сбора, анализа, формализации требований
 * Понимание процессов разработки ПО
-* Описание Use Case и User Story
-* Написание SQL-запросов для получения данных из базы данных
-* Базовые навыки прототипирования интерфейсов
-* Навыки моделирования бизнес-процессов в нотации BPMN 2.0
-* Документирование REST API в Swagger
 * Знание видов и назначения проектной документации, опыт описания спецификации требований на разработку программного обеспечения с нуля
+* Построение UML диаграмм: классов, вариантов использования, активности
+* Описание Use Case и User Stories.
+* Подготовка данных для проектирования API. Документирование REST API в Swagger. Теория по SOAP. Чтение XML и JSON.
+* Базовые навыки прототипирования интерфейсов.
+* SQL формирование запросов, select, join, фильтрация, использование подзапросов, CTE, оконные функции.
+* Моделирование бизнес процессов, нотации BPMN 2.0, контекстная диаграмма IDEF0, теория IDEF3.
+* Документирование: составление спецификации требований по RUP, 830 стандарту.
+
 
 ## Инструментарий
 
@@ -27,10 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/jgraph/drawio-desktop/blob/b0ac2e0c39f89cccdc0080873cd662b08d635c4d/build/icon.svg" title="Drawio" alt="Drawio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Basil518/Demo_HomeWork/blob/e7114e2ee91796b1c3c004b52d173567f3c6e75a/miro_logo.svg" title="Miro" alt="Miro" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Basil518/Demo_HomeWork/blob/main/icons8-microsoft-visio-96.svg" title="Visio" alt="Visio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
-
-***UML, BPMN, DBeaver, VScode, Draw.io, bpmn.io, Figma, Excel, Visio*** 
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Basil518&style=flat-square&color=blue" alt=""/>
