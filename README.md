@@ -2,7 +2,7 @@
 #### Меня зовут Василий и я активно ищу работу системным аналитиком!
 
 * email: basil.vb@ya.ru
-* Telegram: https://t.me/basil_vb 
+ 
 <div id="badges">
   <a href="https://t.me/basil_vb">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
@@ -26,8 +26,10 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jgraph/drawio-desktop/blob/b0ac2e0c39f89cccdc0080873cd662b08d635c4d/build/icon.svg" title="Drawio" alt="Drawio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
+
 ***UML, BPMN, DBeaver, VScode, Draw.io, bpmn.io, Figma, Excel, Visio*** 
 
 <div id="header" align="center">
